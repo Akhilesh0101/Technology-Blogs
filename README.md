@@ -1,3 +1,7 @@
+![Screenshot (107)](https://github.com/Akhilesh0101/Technology-Blogs/assets/112152867/5f2abdc8-e706-4e57-942d-d2c329ecb9b6)
+
+
+live link-https://technology-blogs-git-main-akhilesh0101.vercel.app/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
